@@ -1,6 +1,6 @@
 const config = 
 {
-    url : 'http://localhost:2005'
+    url : 'https://backend-4pun.onrender.com'
 };
 
 export default config;
