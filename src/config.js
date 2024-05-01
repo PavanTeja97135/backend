@@ -1,6 +1,6 @@
 const config = 
 {
-    url : 'https://backend-u5l3.onrender.com'
+    url : 'https://backend-bo9q.onrender.com'
 };
 
 export default config;
